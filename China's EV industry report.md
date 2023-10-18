@@ -1,6 +1,6 @@
 # A report about China's EV industry
 
-To do better GRP works, we had an investigation about China's EV industry in 2023/10/18. Here is the report about it.<br/>
+To do better GRP works, we had an investigation about China's EV industry in 2023/10/18. Here is the report about it.<br/><br/>
 
 
 **Revenue**<br/>
@@ -26,5 +26,5 @@ The increasing trend of charging stations is similar to the trend of unit sales.
 
 
 citations:
-(1)Statista, https://www.statista.com/outlook/mmo/electric-vehicles/china?currency=CNY.
+(1)Statista, https://www.statista.com/outlook/mmo/electric-vehicles/china?currency=CNY.<br/>
 (2)Statistia Market Insight, Sep 2023.
