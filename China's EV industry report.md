@@ -16,7 +16,8 @@ The EV company in China that had the best sale in 2022 is BYD. It took 29.6% of 
 The number of charging stations in the thousand-meter range is 380 in 2020, 595 in 2021, 897 in 2022, and 994 estimated in 2023. (2)
 The increasing trend of charging stations is similar to the trend of unit sales.
 
-<br/>China conveniently topped the global sales charts in 2021 with more electric vehicles sold than the rest of the world combined and almost five times more than Germany, which was in second place. Factors responsible for the Chinese market’s exponential growth include, but are not limited to, the Chinese government’s electric vehicle subsidies, an increasing range of mini electric vehicles, and more affordable brands coming onto the market. Overall, Europe recorded an increase between 2020 and 2021, reaching about 66%, with the plug-in hybrid share of all electric vehicle sales being the biggest in the world. Driven by the availability of more models, as well as the market expansion and purchase incentives, the European market is expected to continue along this trend as countries within the EU adopt stricter CO2 emission standards and move toward zero-emissions vehicle mandates. <br/><br/>
+**Success factors**<br/>
+China conveniently topped the global sales charts in 2021 with more electric vehicles sold than the rest of the world combined and almost five times more than Germany, which was in second place. Factors responsible for the Chinese market’s exponential growth include, but are not limited to, the Chinese government’s electric vehicle subsidies, an increasing range of mini electric vehicles, and more affordable brands coming onto the market.  <br/><br/>
 
 **What does the EV industry supply chain look like and how does it work?** <br/>
 The EV supply chain can be divided into three parts, upstream, midstream, and downstream. (3) <br/>
