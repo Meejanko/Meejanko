@@ -19,6 +19,15 @@ The increasing trend of charging stations is similar to the trend of unit sales.
 **Success factors**<br/>
 China conveniently topped the global sales charts in 2021 with more electric vehicles sold than the rest of the world combined and almost five times more than Germany, which was in second place. Factors responsible for the Chinese market’s exponential growth include, but are not limited to, the Chinese government’s electric vehicle subsidies, an increasing range of mini electric vehicles, and more affordable brands coming onto the market.  <br/><br/>
 
+The Chinese government has implemented supportive policies to bolster the growth of the EV industry. In line with the dual-carbon target, the State Council introduced the “New Energy Vehicle Industry Development Plan (2021-2035)” on November 2, 2020. This plan outlines a national strategy aimed at achieving a sustainable automotive future with reduced emissions.<br/>
+
+On June 21, 2023, China unveiled a substantial RMB 520 billion (US$72.3 billion) tax incentive package spanning four years. This package is designed to offer tax breaks for EVs and environmentally friendly vehicles. Notably, it provides a complete exemption from purchase tax for NEVs purchased in 2024 and 2025, with savings of up to RMB 30,000 (US$4,170) per vehicle. From 2026 to 2027, the exemption will be halved and capped at RMB 15,000 (US$2,078). The goal of this initiative is to stimulate growth in the automotive industry, especially in light of sluggish auto sales.<br/>
+
+Many regions have also introduced local initiatives. For instance, Shenzhen released the “Guidelines for Financial Support to the High-Quality Development of New Energy Vehicle Industry Supply Chain” in 2023. This proposal aims to enhance cross-border financial services to support NEV enterprises. Similarly, Shanghai issued the “Implementation Plan for Accelerating the Development of New Energy Vehicle Industry (2021-2025)” to drive the growth of the NEV industry in their region.<br/>
+
+Currently, in China, the distribution of the NEV industry is similar to that of the traditional automobile sector, with a concentration in key areas such as Beijing-Tianjin-Hebei, the Yangtze River Delta, the Pearl River Delta, and the central region.  <br/><br/>
+
+
 **What does the EV industry supply chain look like and how does it work?** <br/>
 The EV supply chain can be divided into three parts, upstream, midstream, and downstream. (3) <br/>
 
