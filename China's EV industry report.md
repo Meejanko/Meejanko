@@ -19,7 +19,7 @@ The increasing trend of charging stations is similar to the trend of unit sales.
 <br/>China conveniently topped the global sales charts in 2021 with more electric vehicles sold than the rest of the world combined and almost five times more than Germany, which was in second place. Factors responsible for the Chinese market’s exponential growth include, but are not limited to, the Chinese government’s electric vehicle subsidies, an increasing range of mini electric vehicles, and more affordable brands coming onto the market. Overall, Europe recorded an increase between 2020 and 2021, reaching about 66%, with the plug-in hybrid share of all electric vehicle sales being the biggest in the world. Driven by the availability of more models, as well as the market expansion and purchase incentives, the European market is expected to continue along this trend as countries within the EU adopt stricter CO2 emission standards and move toward zero-emissions vehicle mandates. <br/><br/>
 
 **What does the EV industry supply chain look like and how does it work?** <br/>
-The EV supply chain can be divided into three parts, upstream, midstream, and downstream.<br/>
+The EV supply chain can be divided into three parts, upstream, midstream, and downstream. (3) <br/>
 
 > The **upstream** industry involves the supply of raw materials and components for vehicle manufacturing. It encompasses extraction of minerals, namely lithium and cobalt, and manufacturing of major parts, including power battery, drive motor, and electronic control system. Most of these minerals are concentrated in a few countries, including the Democratic Republic of Congo, Argentina, Chile, and Australia. The dispersion and concentration of these key materials make the global supply chain vulnerable and susceptible to disruptions caused by developments linked to geopolitics, shifts in trade alliances, and corporate consolidation.  
 China currently holds a prominent position in this stage, accounting for 75 percent of global lithium-ion battery production and 70 percent of cathode capacity. It stands as the leading refiner of battery metals globally and currently hosts a significant share of battery cell manufacturing capacity, anode, and electrolyte production as well as battery component manufacturing.<br/>
@@ -34,4 +34,5 @@ China currently holds a prominent position in this stage, accounting for 75 perc
 <br/><br/><br/>
 citations:
 (1)Statista, https://www.statista.com/outlook/mmo/electric-vehicles/china?currency=CNY.<br/>
-(2)Statistia Market Insight, Sep 2023.
+(2)Statistia Market Insight, Sep 2023.<br/>
+(3)China’s Electric Vehicle Supply Chain and Its Future Prospects, August 10, 2023, Written by Yi Wu, https://www.china-briefing.com/news/chinas-electric-vehicle-supply-chain-and-its-future-prospects/.<br/>
