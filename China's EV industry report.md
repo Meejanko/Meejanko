@@ -16,9 +16,10 @@ The EV company in China that had the best sale in 2022 is BYD. It took 29.6% of 
 The number of charging stations in the thousand-meter range is 380 in 2020, 595 in 2021, 897 in 2022, and 994 estimated in 2023. (2)
 The increasing trend of charging stations is similar to the trend of unit sales.
 
-**Success factors**<br/>
-China conveniently topped the global sales charts in 2021 with more electric vehicles sold than the rest of the world combined and almost five times more than Germany, which was in second place. Factors responsible for the Chinese market’s exponential growth include, but are not limited to, the Chinese government’s electric vehicle subsidies, an increasing range of mini electric vehicles, and more affordable brands coming onto the market.  <br/><br/>
+**Success Factors**<br/>
+China conveniently topped the global sales charts in 2021 with more electric vehicles sold than the rest of the world combined and almost five times more than Germany, which was in second place. Factors responsible for the Chinese market’s exponential growth include, but are not limited to, the Chinese government’s electric vehicle subsidies, an increasing range of mini electric vehicles, and more affordable brands coming onto the market.  
 
+**State Support**<br/>
 The Chinese government has implemented supportive policies to bolster the growth of the EV industry. In line with the dual-carbon target, the State Council introduced the “New Energy Vehicle Industry Development Plan (2021-2035)” on November 2, 2020. This plan outlines a national strategy aimed at achieving a sustainable automotive future with reduced emissions.<br/>
 
 On June 21, 2023, China unveiled a substantial RMB 520 billion (US$72.3 billion) tax incentive package spanning four years. This package is designed to offer tax breaks for EVs and environmentally friendly vehicles. Notably, it provides a complete exemption from purchase tax for NEVs purchased in 2024 and 2025, with savings of up to RMB 30,000 (US$4,170) per vehicle. From 2026 to 2027, the exemption will be halved and capped at RMB 15,000 (US$2,078). The goal of this initiative is to stimulate growth in the automotive industry, especially in light of sluggish auto sales.<br/>
