@@ -84,7 +84,7 @@ Quality assurance is vital for EV embedded systems as they directly impact vehic
    - 实施健康监测系统，以监测和管理嵌入式系统的状态。
    - 使用传感器和诊断工具来检测故障并采取预防措施。
 
-7. <span id="法规合规性">法规合规性：</span>
+7. [法规合规性:](#法规合规性)
    - 确保系统遵守行业法规，符合行业标准，例如针对汽车行业的 ISO 26262 以及其他相关电动汽车法规。
 
 8. 性能测试：
@@ -111,7 +111,7 @@ Quality assurance is vital for EV embedded systems as they directly impact vehic
 
 ---
 
-### 7 - 法规合规[法规合规性](#法规合规性)
+### 7 - <span id="法规合规性">法规合规性：</span>
 法规合规（Regulatory Compliance）是指组织、企业或个人遵守适用的法规、法律、规章和标准的程度，以确保其活动和操作是合法和合规的。这些法规和标准可以涵盖各种领域，包括金融、医疗、环境、安全、隐私、食品安全、数据安全、汽车工业等。法规合规通常包括以下关键方面：
 
 1. **遵守法律法规**：确保组织的活动和业务操作遵守国家、地区或国际法律法规。这可能包括税收法、劳动法、环保法、消费者权益法等。
