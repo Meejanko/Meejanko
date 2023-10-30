@@ -85,7 +85,7 @@ Quality assurance is vital for EV embedded systems as they directly impact vehic
    - 实施健康监测系统，以监测和管理嵌入式系统的状态。
    - 使用传感器和诊断工具来检测故障并采取预防措施。
 
-7. [法规合规性:](#法规合规性)
+7. [法规合规性](#法规合规性):
    - 确保系统遵守行业法规，符合行业标准，例如针对汽车行业的 ISO 26262 以及其他相关电动汽车法规。
 
 8. 性能测试：
