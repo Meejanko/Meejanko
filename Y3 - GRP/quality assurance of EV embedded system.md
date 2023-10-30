@@ -1,5 +1,4 @@
-# Quality Assurance of EV embedded system
-电动车嵌入式系统的质量保证
+# **Quality Assurance of EV embedded system**  电动车嵌入式系统的质量保证
 
 电动汽车（EV）嵌入式系统的质量保证是确保其安全、可靠和高效运行的重要工作。以下是一些实施EV嵌入式系统质量保证的一般步骤： 
 
