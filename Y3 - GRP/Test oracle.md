@@ -1,5 +1,7 @@
 # Test Oracle
 
+翻译：测试准则  
+
 In computing, software engineering, and software testing, a test oracle (or just oracle) is a mechanism for determining whether a test has passed or failed. The use of oracles involves comparing the output(s) of the system under test, for a given test-case input, to the output(s) that the oracle determines that product should have. The term "test oracle" was first introduced in a paper by William E. Howden. Additional work on different kinds of oracles was explored by Elaine Weyuker.
 
 Oracles often operate separately from the system under test. However, method postconditions are part of the system under test, as automated oracles in design by contract models. Determining the correct output for a given input (and a set of program or system states) is known as the oracle problem or test oracle problem, which is a much harder problem than it seems, and involves working with problems related to controllability and observability.  
