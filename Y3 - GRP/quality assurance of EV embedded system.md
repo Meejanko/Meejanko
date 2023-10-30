@@ -51,6 +51,7 @@ Ensuring the quality of an Electric Vehicle (EV) embedded system is crucial to d
 Quality assurance is vital for EV embedded systems as they directly impact vehicle performance, safety, and reliability. Regular testing and assessments help ensure that EV systems function under various conditions and meet regulatory requirements and user expectations.  
 
 
+---
 
 # 电动车嵌入式系统的质量保证
 
@@ -133,3 +134,6 @@ Quality assurance is vital for EV embedded systems as they directly impact vehic
 9. **自愿性认证**：通过自愿性认证标准，如ISO 14001（环境管理体系）或ISO 27001（信息安全管理体系），来证明组织的合规性和承诺。
 
 非遵守法规合规可能会导致法律诉讼、罚款、声誉损失、产品召回、财务损失和其他严重后果。因此，许多组织都投资时间和资源，以确保其活动和产品在合法和合规的框架内进行，以降低法律风险。法规合规要求组织建立并维护合规管理系统，监督和审查其合规性，培训员工，并及时对变化的法规进行适应。
+
+
+---
