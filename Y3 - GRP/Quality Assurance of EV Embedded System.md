@@ -1,4 +1,4 @@
-# Quality Assurance of EV embedded system
+# Quality Assurance of EV Embedded System
 Ensuring the quality of an Electric Vehicle (EV) embedded system is crucial to deliver a safe and reliable product. Here's a step-by-step guide on how to perform quality assurance for an EV embedded system:
 
 1. **Quality Assurance Plan**:
