@@ -63,7 +63,7 @@ Quality assurance is vital for EV embedded systems as they directly impact vehic
    - 制定测试策略：确定测试方法、工具和流程，包括软件和硬件测试。
    - 制定验收标准：明确测试通过的标准，包括性能、稳定性、安全性等方面。
 
-2. [需求分析](*需求分析)：
+2. [需求分析](#需求分析)：
    - 确保系统需求明确且一致，包括功能、性能和安全需求。
    - 检查需求规范，确保满足法规和标准。
 
