@@ -1,0 +1,106 @@
+\documentclass{article}
+\usepackage[margin=3.5cm]{geometry} 
+\usepackage[fontsize=12pt]{fontsize}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{float}
+\linespread{1.5} 
+\title{Quality Assurance of Embedded System}
+\date{}
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+\RaggedRight
+\section{Introduction of quality assurance}
+Quality assurance (QA) is any systematic process of determining whether a product or service meets specified requirements. QA establishes and maintains set requirements for developing or manufacturing reliable products.\\~\\
+QA establishes and maintains set requirements for developing or manufacturing reliable products. A quality assurance system is meant to increase customer confidence and a company's credibility, while also improving work processes and efficiency, and it enables a group or a company to better compete with others.\\~\\
+In terms of software development, QA practices seek to prevent malfunctioning code or products.
+\section{Quality assurance in software}
+Software quality assurance (SQA) systematically finds patterns and the actions needed to improve development cycles. Finding and fixing coding errors can carry unintended consequences; it is possible to fix one thing, yet break other features and functionality at the same time.\\~\\
+SQA has become important for developers as a means of avoiding errors before they occur, saving development time and expenses. Even with SQA processes in place, an update to software can break other features and cause defects -- commonly known as bugs.\\~\\
+There have been numerous SQA strategies. For example, Capability Maturity Model Integration (CMMI) is a performance improvement-focused SQA model. CMMI works by ranking maturity levels of areas within an organization, and it identifies optimizations that can be used for improvement. Rank levels range from being disorganized to being fully optimal.\\~\\
+Software development methodologies have developed over time that rely on SQA, such as Waterfall, Agile and Scrum. Each development process seeks to optimize work efficiency.
+\begin{itemize}
+\item \textbf{Waterfall} is the traditional linear approach to software development. It's a step-by-step process that typically involves gathering requirements, formalizing a design, implementing code, code testing and remediation and release. It is often seen as too slow, which is why alternative development methods were constructed.
+\item \textbf{Agile} is a team-oriented software development methodology where each step in the work process is approached as a sprint. Agile software development is highly adaptive, but it is less predictive because the scope of the project can easily change.
+\item \textbf{Scrum} is a combination of both processes where developers are split into teams to handle specific tasks, and each task is separated into multiple sprints.
+\end{itemize}
+To implement a QA system, first set goals for the standard. Consider the advantages and tradeoffs of each approach, such as maximizing efficacy, reducing cost or minimizing errors. Management must be willing to implement process changes and to work together to support the QA system and establish standards for quality.
+\section{QA team}
+A portion of careers in SQA include job options like SQA engineers, SQA Analyst and SQA test automation. SQA engineers monitor and test software through development. An SQA Analyst will monitor the implication and practices of SQA over software development cycles. SQA test automation requires the individual to create programs to automate the SQA process.\\~\\
+These programs compare predicted outcomes with actual outcomes. This work is used for constant testing.
+\section{Goals in each stage of QA}
+The goals of SQA in various stages of software development:
+\begin{enumerate}
+\item Requirement analysis
+\item Software specifications
+\item Design
+\item Coding
+\item Test
+\item Maintenance
+\end{enumerate}
+\newpage
+\section{Requirement analysis}
+\begin{itemize}
+\item Ensure that the system requested by the customer is feasible.
+\item Ensure that the customer's specified needs can indeed meet their true requirements.
+\item Avoiding misunderstandings between developers and customers.
+\item Provide users with appropriate software systems actually built to meet their stated needs.
+\item Ensure that the system requirements are clear, complete, and consistent, including functional, performance, and safety requirements.
+\end{itemize}
+\section{Software specifications}
+\begin{itemize}
+\item By establishing a requirement tracking document, ensure that the specifications are consistent with the system requirements.
+\item Ensure that the specifications appropriately improve the flexibility, maintainability, and performance of the system.
+\item Ensure that a testing strategy has been established.
+\item Ensure that a realistic development schedule has been established, including scheduled reviews.
+\item Ensure that a formal change procedure has been designed for the system.
+\end{itemize}
+\section{Design}
+\begin{itemize}
+\item Ensure that standards have been established to describe the design and that they are followed.
+\item Ensure appropriate control and documentation of changes made to the design.
+\item Ensure that coding begins only after the system design components have been approved according to agreed guidelines.
+\item Ensure that the review of the design is carried out according to schedule.
+\end{itemize}
+\section{Coding}
+\begin{itemize}
+\item Ensure that the code follows established style, structure, and documentation standards.
+\item Ensure that the code is properly tested and integrated, and that modifications to the coding module are appropriately identified.
+\item Check if the code writing follows the established schedule.
+\item Ensure that the code review is progressing according to schedule.
+\end{itemize}
+\section{Test}
+\begin{itemize}
+\item Ensure the establishment and adherence of testing plans.
+\item Ensure that the created test plan meets the requirements of all system specifications.
+\item Ensure that the software remains consistent with the specifications after testing and rework.
+\end{itemize}
+\section{Maintenance}
+\begin{itemize}
+\item Ensure consistency between code and documentation.
+\item Ensure monitoring of established change control processes, including the process of integrating changes into the product version of the software.
+\item Ensure that code modifications follow coding standards and are reviewed without damaging the entire code structure.
+\end{itemize}
+\newpage
+\section{SQA tools}
+Software testing is an integral part of software quality assurance. Testing saves time, effort and cost, and it enables a quality end product to be optimally produced. There are numerous software tools and platforms that developers can employ to automate and orchestrate testing in order to facilitate SQA goals.\\
+\begin{itemize}
+\item \textbf{Selenium:} Selenium is an open source software testing program that can run tests in a variety of popular software languages, such as C\#, Java and Python.
+\item \textbf{Jenkins:} Another open source program, called Jenkins, enables developers and QA staff to run and test code in real time. It's well-suited for a fast-paced environment because it automates tasks related to the building and testing of software.
+\item \textbf{Postman:} For web apps or application program interfaces (APIs), Postman will automate and run tests. It is available for Mac, Windows and Linux, and it can support Swagger and RAML formatting.
+\end{itemize}
+\section{Advantage and disadvantage of QA}
+\begin{itemize}
+\item \textbf{Pros: } Quality assurance helps ensure that organizations create and ship products that are clear of defects and meet the needs and expectations of customers. High-quality products result in satisfied customers, which can result in customer loyalty, repeat purchases, upsell and advocacy.\\~\\
+Quality assurance can lead to cost reductions stemming from the prevention of product defects. If a product is shipped to customers and a defect is discovered, an organization incurs cost in customer support, such as receiving the defect report and troubleshooting. It also acquires the cost in addressing the defect, such as service or engineering hours to correct it, testing to validate the fix and cost to ship the updated product to the market.
+\item \textbf{Cons: } QA does require a substantial investment in people and process. People must define a process workflow and oversee its implementation by members of a QA team. This can be a time-consuming process that impacts the delivery date of products. With few exceptions, the disadvantage of QA is more a requirement -- a necessary step that must be undertaken to ship a quality product. Without QA, more serious disadvantages arise, such as product bugs and the market’s dissatisfaction or rejection of the product.
+\end{itemize}
+\newpage
+
+
+
+
+\end{document}
