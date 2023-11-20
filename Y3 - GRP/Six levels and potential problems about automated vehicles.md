@@ -1,4 +1,14 @@
+# Six levels of driving automation
+
 The Society of Automotive Engineers (SAE) currently defines 6 levels of driving automation ranging from Level 0 (fully manual) to Level 5 (fully autonomous). These levels have been adopted by the U.S. Department of Transportation.
+
+**0 NO Automation**
+
+Manual control The human performs all driving tasks (steering, acceleration, braking, etc.).
+
+**1 DRIVER ASSISTANCE**
+
+The vehicle features a single automated system (e.g. it monitors speed through cruise control).
 
 
 # Some potential problems that autonomous vehicles will face
