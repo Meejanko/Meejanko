@@ -1,4 +1,4 @@
-# some potential problem that autonomous vehicle will face
+# Some potential problems that autonomous vehicles will face
 
 **Artificial vs. Emotional Intelligence**
 
