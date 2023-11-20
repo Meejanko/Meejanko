@@ -6,7 +6,7 @@ The Society of Automotive Engineers (SAE) currently defines 6 levels of driving 
 
 Manual control The human performs all driving tasks (steering, acceleration, braking, etc.).
 
-**1 DRIVER ASSISTANCE**
+**1 Driver Assistance**
 
 The vehicle features a single automated system (e.g. it monitors speed through cruise control).
 
