@@ -1,3 +1,6 @@
+The Society of Automotive Engineers (SAE) currently defines 6 levels of driving automation ranging from Level 0 (fully manual) to Level 5 (fully autonomous). These levels have been adopted by the U.S. Department of Transportation.
+
+
 # Some potential problems that autonomous vehicles will face
 
 **Artificial vs. Emotional Intelligence**
@@ -15,4 +18,3 @@ What happens when an autonomous car drives in heavy precipitation? If there’s 
 **Traffic Conditions and Laws**
 
 Will autonomous cars have trouble in tunnels or on bridges? How will they do in bumper-to-bumper traffic? Will autonomous cars be relegated to a specific lane? Will they be granted carpool lane access? And what about the fleet of legacy cars still sharing the roadways for the next 20 or 30 years?
-
