@@ -10,6 +10,18 @@ Manual control The human performs all driving tasks (steering, acceleration, bra
 
 The vehicle features a single automated system (e.g. it monitors speed through cruise control).
 
+**2 Partial Automation**
+ADAS The vehicle can perform steering and acceleration. The human still monitors all tasks and can take control at any time.
+
+**3 Conditional Automation**
+Environmental detection capabilities. The vehicle can perform most driving tasks, but human override is still required.
+
+**4 High Automation**
+The vehicle performs all driving tasks under specific circumstances. Geofencing is required. Human override is still an option.
+
+**5 Full Automation**
+The vehicle performs all driving tasks under all conditions. Zero human attention or interaction is required.
+
 
 # Some potential problems that autonomous vehicles will face
 
