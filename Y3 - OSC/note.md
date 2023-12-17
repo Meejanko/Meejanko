@@ -6,7 +6,7 @@
 中断体系结构必须保存被中断指令的地址<br/>
 当正在处理另一个中断时，传入中断被禁用，以防止丢失的中断<br/>
 一个操作系统是由中断驱动的<br/>
-types of interrupt: [tpyes of interrupt]
+click to see [tpyes of interrupt]
 
 #### trap（陷入）
 陷入（trap）是由错误或用户请求引起的软件生成的中断（software-generated interrupt）<br/>
