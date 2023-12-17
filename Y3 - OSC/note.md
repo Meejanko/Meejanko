@@ -7,7 +7,11 @@
 当正在处理另一个中断时，传入中断被禁用，以防止丢失的中断<br/>
 一个操作系统是由中断驱动的<br
 types of interrupt: [1]
-[1]https://img-blog.csdnimg.cn/img_convert/53eefb4dda2a25e3e14494d938a4367f.png
 
 #### trap（陷入）
 陷入（trap）是由错误或用户请求引起的软件生成的中断（software-generated interrupt）<br/>
+
+
+
+
+[1]: https://img-blog.csdnimg.cn/img_convert/53eefb4dda2a25e3e14494d938a4367f.png
