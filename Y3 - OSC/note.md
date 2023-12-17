@@ -24,6 +24,16 @@
 ■单独的代码段确定对每种类型的中断应该采取什么操作
 #### trap（陷入）
 陷入（trap）是由错误或用户请求引起的软件生成的中断（software-generated interrupt）<br/>
+### 存储结构（storage structure）
+> voltage storage (易失性储存器)：
+- 寄存器 register
+- 高速缓存 cache
+- 主存储器 main memory
+> nonvoltage storage (非易失性存储器):
+- 闪存 nonvoltage memory
+- 磁盘 hard-disk drives
+- 光盘 optical disk
+- 磁带 magnetic tapes
 
 
 
