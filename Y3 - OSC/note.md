@@ -1,3 +1,5 @@
+## 操作系统导论
+[操作系统导论]
 ### 几种状态
 #### interrupt（中断）
 中断的常见功能:  
@@ -25,5 +27,5 @@
 
 
 
-
+[操作系统导论]: https://blog.csdn.net/weixin_53254469/article/details/127234923
 [tpyes of interrupt]: https://img-blog.csdnimg.cn/img_convert/53eefb4dda2a25e3e14494d938a4367f.png
