@@ -34,6 +34,9 @@
 - 磁盘 hard-disk drives
 - 光盘 optical disk
 - 磁带 magnetic tapes
+### I/O
+> 同步I/O(Synchronous I/O)：在I/O启动后，控制仅在I/O完成时才返回到用户程序
+> 异步I/O（Asynchronous I/O）：在I/O启动后，控件返回到用户程序，而不等待I/O完成
 
 
 
