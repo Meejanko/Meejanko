@@ -1,6 +1,6 @@
-## VCU(Vehicle Control Unit) functional specifications
+## VCU functional specifications
 
-VCU is consisted of shell, hardware circuit, underlying software, and application layer software.
+VCU (Vehicle Control Unit) is consisted of shell, hardware circuit, underlying software, and application layer software.
 
 VCU functional specifications includes:
 
