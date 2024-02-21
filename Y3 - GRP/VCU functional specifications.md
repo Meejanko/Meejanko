@@ -11,3 +11,5 @@ VCU functional specifications includes:
  5. Thermal Management System (Heat dissipation and heating)
  6. High voltage up and down power management
  7. High voltage accessory system
+
+The above specifications need to be followed during testing.
